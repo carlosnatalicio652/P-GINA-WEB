@@ -1,1 +1,25 @@
+body {
+  background-color: #f0f4f8;
+  font-family: Arial, sans-serif;
+}
 
+h1 {
+  color: #1a5276;
+  text-align: center;
+}
+
+.paragrafo {
+  color: #333333;
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 700px;
+  margin: 20px auto;
+}
+
+.paragrafo strong {
+  color: #c0392b;
+}
+
+.paragrafo em {
+  color: #27ae60;
+}
